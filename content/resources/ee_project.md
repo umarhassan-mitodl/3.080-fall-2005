@@ -5,6 +5,8 @@ description: This file contains overview for the project submission for engineer
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/ca3a6ea2f7f1c052e1688e1c39e645d0_ee_project.pdf
 file_size: 48177
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

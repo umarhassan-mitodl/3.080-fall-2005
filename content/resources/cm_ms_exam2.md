@@ -5,6 +5,8 @@ description: This resource contains questions asked in the exam based on cost mo
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/d6b009b86410c0cbf26991c56008662a_cm_ms_exam2.pdf
 file_size: 215572
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

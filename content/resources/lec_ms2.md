@@ -5,6 +5,8 @@ description: This file contains a brief overview of a systematic methodology mat
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/0a9684aa33bdabd205be6eb0635d6dcf_lec_ms2.pdf
 file_size: 465748
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

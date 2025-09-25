@@ -5,6 +5,8 @@ description: This file contains assignments questions list taken from the requir
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/14f44f88e35fd02f7f080f577bb39902_ee2.pdf
 file_size: 27759
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

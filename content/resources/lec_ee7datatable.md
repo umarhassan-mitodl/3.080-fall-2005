@@ -4,6 +4,8 @@ description: This file contains information about data tables.
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/a76e74badb83e81081d0f44e2d1638f9_lec_ee7datatable.pdf
 file_size: 81578
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

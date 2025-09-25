@@ -5,6 +5,8 @@ description: 'This resource discusses about intent: intended application of the 
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/903a23eae04886130593ba75ac37c3a3_lec_lca3.pdf
 file_size: 78424
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

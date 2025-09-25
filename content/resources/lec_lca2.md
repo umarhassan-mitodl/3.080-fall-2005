@@ -7,6 +7,8 @@ description: 'This resource discusses about engineering
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/7d275969c721222665526c0d5991125f_lec_lca2.pdf
 file_size: 197811
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

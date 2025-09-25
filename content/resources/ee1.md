@@ -4,6 +4,8 @@ description: This file contains assignment questions for engineering economics.
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/22e7bb0af5586aeb3dc8c58a14de0afd_ee1.pdf
 file_size: 28060
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

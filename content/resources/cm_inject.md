@@ -5,6 +5,8 @@ description: This file contains the details about Injection Molding Technical Co
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/a6f60ada52d209a1ea25f9c536db7731_cm_inject.xls
 file_size: 87552
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
