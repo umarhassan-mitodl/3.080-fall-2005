@@ -31,6 +31,7 @@
     "website": "3-080-economic-environmental-issues-in-materials-selection-fall-2005"
   },
   "course_title": "Economic & Environmental Issues in Materials Selection",
+  "hide_download": true,
   "course_description": "Choice of material has implications throughout the life-cycle of a product, influencing many aspects of economic and environmental performance. This course will provide a survey of methods for evaluating those implications. Lectures will cover topics in material choice concepts, fundamentals of engineering economics, manufacturing economics modeling methods, and life-cycle environmental evaluation.\n",
   "department_numbers": [
     "3"
@@ -41,6 +42,7 @@
     "content": "70d9ce38-7688-e6d5-25da-e3b37d95904d",
     "website": "3-080-economic-environmental-issues-in-materials-selection-fall-2005"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",

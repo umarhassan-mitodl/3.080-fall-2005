@@ -4,6 +4,8 @@ description: This file contains notes for inflation, CPI and PPI etc.
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/d6befc6af283fd68ef5a1056b74aedbd_lec_ee6.pdf
 file_size: 112818
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

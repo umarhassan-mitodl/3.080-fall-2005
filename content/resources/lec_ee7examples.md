@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/8d8d40c30b0018b39c8bca4a0809c2b6_lec_ee7examples.xls
 file_size: 40960
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

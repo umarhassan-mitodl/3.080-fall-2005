@@ -5,6 +5,8 @@ description: This file contains notes for comparing alternatives, engineering ec
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/1045753cda503c44fb827ef76cfdd4db_lec_ee1.pdf
 file_size: 322507
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This file contains notes for approach changes as design, What param
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/bbc588d06a5dcaf0a3e156e2108a69ce_lec_ms1.pdf
 file_size: 1527573
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This file contains overview of the materials selection class projec
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/5087624bfa2180cb04011611dd42d50d_ms_project.pdf
 file_size: 152262
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

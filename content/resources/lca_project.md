@@ -4,6 +4,8 @@ description: Detailed description of the project assignment.
 file: /courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/142c119771755c4284d9ac56d5cf5bf7_lca_project.pdf
 file_size: 50493
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
